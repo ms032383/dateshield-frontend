@@ -25,3 +25,5 @@ lib/
 ├── state/          # Riverpod controllers (ScanController)
 ├── views/          # UI Screens (Home, Result, Scanner)
 └── widgets/        # Reusable UI components
+
+hello
