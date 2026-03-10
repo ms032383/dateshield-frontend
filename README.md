@@ -26,4 +26,3 @@ lib/
 ├── views/          # UI Screens (Home, Result, Scanner)
 └── widgets/        # Reusable UI components
 
-hello
